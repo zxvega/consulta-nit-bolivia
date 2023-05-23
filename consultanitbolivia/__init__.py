@@ -1,0 +1,1 @@
+from consultanitbolivia.verificar import ConsultaNIT
