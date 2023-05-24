@@ -3,7 +3,7 @@ from setuptools import setup
 readme = open("./README.md", "r")
 
 setup(
-    name='consultanitbolivia',
+    name='consultanit',
     packages=['consultanitbolivia'],  # this must be the same as the name above
     version='0.1',
     description='Este paquete le permite verificar el ESTADO ACTUAL DEL NIT, en caso de no existir retorna un mensaje indicando que no existe.',

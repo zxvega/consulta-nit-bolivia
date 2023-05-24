@@ -41,5 +41,5 @@ if resultado is not None:
 El paquete funcionara siempre y cuando Impuestos Nacionales siga permitiendo que el servicio sea de acceso publico y sin autenticacion.
 
 
-[pypi-version]: https://img.shields.io/pypi/v/consulta-nit-bolivia
-[pypi]: https://pypi.org/project/consulta-nit-bolivia
+[pypi-version]: https://img.shields.io/pypi/v/consultanit
+[pypi]: https://pypi.org/project/consultanit
